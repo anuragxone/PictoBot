@@ -90,5 +90,6 @@ public class Main {
 //        api.sendMessage(jid, "hello");
 //        api.removeGroupParticipant(info.chat(), victim)
 //                .thenRunAsync(() -> api.sendMessage(info.chatJid(), "[WhatsappBot] The contact was successfully banned", info));
+// xyz
     }
 }
